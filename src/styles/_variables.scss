@@ -1,0 +1,21 @@
+// Fonts
+$font-family: 'Roboto', sans-serif;
+
+// Colors
+$white: #fff;
+$gray: #313030;
+$error: #900d30;
+
+// Background
+$container-bg: linear-gradient(
+  to left bottom, #9296e9, #7e81e3, #696ddc, #5458d5, #3c43cd  
+
+  
+);
+$main-bg: linear-gradient(
+  to right top, #5a5fd1, #5358d0, #4c51cf, #444ace, #3c43cd
+);
+
+// Shadows
+$main-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
+  rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
